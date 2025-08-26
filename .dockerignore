@@ -1,19 +1,13 @@
-# Python
 __pycache__/
 *.pyc
+*.pyo
 .venv/
 venv/
-
-# IDE
 .vscode/
 .idea/
-
-# VCS
 .git/
 .gitignore
-
-# Configs / Secrets
 .env
-
-# Logs
 *.log
+dist/
+build/
