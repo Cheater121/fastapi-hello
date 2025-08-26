@@ -1,0 +1,5 @@
+services:
+  db:
+    image: mirror.gcr.io/library/postgres:17
+  redis:
+    image: mirror.gcr.io/library/redis:8
